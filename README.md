@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
- 
+
 Hi there, I'm <a href="https://www.holopin.io/@vaibhavw12#" target="_blank" rel="noreferrer">Vaibhav Wable</a> 👋
 </h3>
 
@@ -28,16 +28,15 @@ Hi there, I'm <a href="https://www.holopin.io/@vaibhavw12#" target="_blank" rel=
 I'm a Full-Stack Web Developer 💻
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love to code ,I have completed my B.E in computer engineering from Dr. D. Y. Patil Institute of Technology Pune
 
 ### 🤝 Connect with me:
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
+<a href="https://twitter.com/vaibhavwable_12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="my banner"></a>
+<a href="https://www.linkedin.com/in/vaibhav-wable-b490aa1a9/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="my banner"></a>
+<a href="vaibhavwable2000@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="my banner"></a>
+<a href="https://discordapp.com/users/5994" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="my banner"></a>
+<a href="https://www.instagram.com/vaibhavw_12/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="my banner"></a>
+<a href="https://wa.link/3ji8hu" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="my banner"></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -78,9 +77,11 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=83267457)
 
 
+## 🎗 Badges
+[![An image of @vaibhavw12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavw12)](https://holopin.io/@vaibhavw12)
+
 ## 📈 GitHub Stats 
 
 [![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavw12)](https://github.com/vaibhavw12)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavw12&layout=compact)](https://github.com/vaibhavw12)
-
