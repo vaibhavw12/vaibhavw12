@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">
  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-Hi there, I'm <a href="https://www.holopin.io/@vaibhavw12#" target="_blank" rel="noreferrer">Vaibhav Wable</a> 👋
+Hi there, I'm <a href="https://vaibhavwable.netlify.app/" target="_blank" rel="noreferrer">Vaibhav Wable</a> 👋
 </h3>
 
 <h2 align="center">
