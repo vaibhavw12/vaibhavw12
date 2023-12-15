@@ -21,7 +21,7 @@ open to work for technical roles
 
 ### Links:
 
-### <a href="https://www.github.com/vaibhavw12">github</a>
+### <a href="https://www.github.com/vaibhavw12">github</a> | <a href="">linkedin</a>
 
 ## 👇 Few things about me
 
