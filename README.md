@@ -80,8 +80,3 @@ I love to code ,I have completed my B.E in computer engineering from Dr. D. Y. P
 ## 🎗 Badges
 [![An image of @vaibhavw12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavw12)](https://holopin.io/@vaibhavw12)
 
-## 📈 GitHub Stats 
-
-[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavw12)](https://github.com/vaibhavw12)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavw12&layout=compact)](https://github.com/vaibhavw12)
